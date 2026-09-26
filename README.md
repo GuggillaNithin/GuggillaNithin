@@ -323,7 +323,7 @@ jobs:
           add: "profile/*.svg"
 ```
 
-The snake approach is useful here because the generated SVG can live in your own profile repository instead of depending on a public image service. citeturn2search9
+
 
 ---
 
