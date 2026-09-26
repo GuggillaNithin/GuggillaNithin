@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nithin%20Guggilla&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20AI%20Application%20Developer%20%7C%20POD%20Lead&descAlign=50&descAlignY=58&fontSize=42&descSize=18&animation=fadeIn&color=0:0F172A,50:172554,100:0F766E" width="100%" alt="Nithin Guggilla"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nithin%20Guggilla&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20AI%20Application%20Developer%20%7C%20POD%20Lead&descAlign=50&descAlignY=58&fontSize=42&descSize=18&fontColor=FFFFFF&animation=fadeIn&color=0:0F172A,50:172554,100:0F766E" width="100%" alt="Nithin Guggilla"/>
 
 <a href="https://github.com/GuggillaNithin">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Building+production-ready+AI+applications;LLMs+%7C+RAG+%7C+Embeddings+%7C+AI+Agents;FastAPI+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;Turning+business+problems+into+intelligent+systems" alt="Typing animation"/>
