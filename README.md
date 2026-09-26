@@ -1,305 +1,432 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║        NITHIN GUGGILLA — AI ENGINEER PROFILE README        ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-# 👋 Hi, I'm Nithin Guggilla
-
-### `AI Engineer` • `AI Application Developer` • `POD Lead`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Embeddings;Full-Stack+AI+%7C+FastAPI+%7C+Next.js;Turning+AI+ideas+into+production-ready+products" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/GuggillaNithin">
-    <img src="https://img.shields.io/github/followers/GuggillaNithin?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/GuggillaNithin?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nithin-guggilla">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 🧠 About Me
-
-```text
-AI Engineer building practical AI products at the intersection of
-Generative AI, backend engineering, and modern full-stack development.
-
-→ 1+ year of professional experience in AI application development
-→ Building LLM-powered applications, RAG systems & AI workflows
-→ Experienced with enterprise knowledge systems and multi-tenant SaaS
-→ Interested in AI Agents, agentic workflows, automation & cloud architecture
-→ POD Lead — sprint planning, coordination, technical guidance & delivery
-```
-
-- 🔭 Currently building **AI-powered applications, RAG systems and SaaS platforms**
-- 🤖 Working with **LLMs, embeddings, semantic search, vector databases and AI agents**
-- 🧩 Building backend systems with **Python, FastAPI, PostgreSQL and Redis**
-- 🎨 Building modern products with **Next.js, React, TypeScript and Tailwind CSS**
-- ☁️ Exploring **AWS, Docker, Linux, Nginx and CI/CD**
-- ⚡ I enjoy turning **business problems → AI workflows → production applications**
-- 📍 Hyderabad, India
-
----
-
-## 🚀 What I Build
-
-| Area | What I work on |
-|---|---|
-| 🤖 **Generative AI** | LLM applications, RAG, embeddings, semantic search, AI agents |
-| 📚 **Knowledge Systems** | Enterprise document search, grounded Q&A, vector databases |
-| 🧠 **AI Platforms** | Assessments, recommendations, NLP and intelligent automation |
-| 🏗️ **Full-Stack SaaS** | Multi-tenant applications, RBAC, dashboards and workflows |
-| ⚙️ **Backend Engineering** | FastAPI, REST APIs, PostgreSQL, Redis, Celery |
-| ☁️ **Cloud & DevOps** | AWS, Docker, Linux, Nginx, GitHub Actions, CI/CD |
-
----
-
-# 🛠️ Tech Stack
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45" />
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" height="45" />
-<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" height="45" />
-<img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge" height="45" />
-<img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge" height="45" />
-<img src="https://img.shields.io/badge/Embeddings-7B61FF?style=for-the-badge" height="45" />
-</p>
-
-**LLM APIs:** OpenAI-compatible APIs • Google Gemini • Groq  
-**AI:** RAG • NLP • Embeddings • Semantic Search • Recommendation Systems • AI Agentic Workflows
-
-### 💻 Languages & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,fastapi" height="45" />
-</p>
-
-**Backend:** Python • FastAPI • REST APIs • Node.js  
-**Async / Processing:** Redis • Celery
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="45" />
-</p>
-
-Next.js • React.js • TypeScript • JavaScript • Tailwind CSS • Data Visualization
-
-### 🗄️ Databases & Vector Search
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase" height="45" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" height="45" />
-</p>
-
-PostgreSQL • MySQL • Supabase • Redis • Qdrant • Vector Databases
-
-### ☁️ Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,githubactions" height="45" />
-</p>
-
-AWS • Docker • Linux • Nginx • Git • GitHub Actions • CI/CD • Vercel • Render • Oracle Cloud
-
----
-
-# 💼 Professional Experience
-
-### 🏢 Maple Learning Solutions
-**AI Application Developer / POD Lead**  
-`May 2025 – Present` • Hyderabad, India
-
-I work across AI application development, backend engineering, SaaS platforms and team delivery.
-
-### 🔐 Enterprise Private RAG Chatbot
-
-**Python • FastAPI • Qdrant • PostgreSQL • Embeddings • LLM APIs • Docker**
-
-- Built a private enterprise RAG chatbot for **2,500+ pages** of internal procedures and documentation.
-- Implemented document processing, embeddings, semantic search and retrieval-augmented generation.
-- Designed grounded response workflows using approved enterprise knowledge sources.
-- Containerized backend, PostgreSQL and Qdrant using Docker Compose.
-
-### 🎓 AI-Powered LMS & Multi-Tenant SaaS
-
-**Next.js • React • FastAPI • PostgreSQL • Supabase • Redis • Celery • Docker**
-
-- Built a multi-tenant LMS supporting courses, assessments, enrollment, progress, certificates and reporting.
-- Implemented authentication, RBAC and tenant-level data isolation.
-- Added SCORM/xAPI progress and completion tracking.
-- Used Redis + Celery for asynchronous processing and automated workflows.
-- Built dashboards and visualizations for system monitoring and actionable insights.
-
-### 🧠 AI Assessment & Recommendation Platform
-
-**Python • LLM APIs • Embeddings • NLP • PostgreSQL**
-
-- Developed AI-powered assessment and recommendation workflows.
-- Used LLMs, embeddings and NLP to evaluate learner responses and generate personalized recommendations.
-- Automated assessment processing, PDF report generation and email notifications.
-- Integrated **Google Gemini, Groq and OpenAI-compatible APIs**.
-
-### 📄 ATS Resume Score Checker
-
-**Python • NLP • Embeddings • Machine Learning**
-
-- Built an ATS analysis system using semantic similarity, embeddings and keyword matching.
-- Implemented batch processing for **50+ resumes** against job requirements.
-- Generated structured scores and identified skill / keyword gaps.
-
-### 🚨 Crisis Management Assessment Platform
-
-**Python • FastAPI • LLM APIs • PDF Generation • Email Automation**
-
-- Built AI-driven assessment processing and structured result generation.
-- Automated PDF reports and email workflows.
-- Developed APIs covering submission → processing → reporting → notification.
-
----
-
-# 🌟 Featured Projects
-
-> A selection of the kinds of systems I enjoy building.
-
-### 🔐 Enterprise Private RAG Chatbot
-`RAG` `FastAPI` `Qdrant` `PostgreSQL` `LLM APIs` `Docker`
-
-Enterprise knowledge assistant designed to answer questions from approved internal documentation while keeping retrieval grounded in source content.
-
-### 🎓 AI-Powered Multi-Tenant LMS
-`Next.js` `React` `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker`
-
-Scalable learning platform with tenant isolation, assessments, certificates, progress tracking, reporting and asynchronous workflows.
-
-### 🧠 AI Assessment & Recommendation Platform
-`Python` `NLP` `Embeddings` `LLMs` `PostgreSQL`
-
-AI-powered learner assessment and recommendation workflows combining structured evaluation with personalized recommendations.
-
-### 📊 ATS Resume Score Checker
-`Python` `NLP` `Embeddings` `ML`
-
-Resume-to-job matching system that analyzes semantic similarity, keywords and skill gaps.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nithin%20Guggilla&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20AI%20Application%20Developer%20%7C%20POD%20Lead&descAlign=50&descAlignY=58&fontSize=42&descSize=18&animation=fadeIn&color=0:0F172A,50:172554,100:0F766E" width="100%" alt="Nithin Guggilla"/>
 
 <a href="https://github.com/GuggillaNithin">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuggillaNithin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Nithin's GitHub stats"/>
-</a>
-
-<a href="https://github.com/GuggillaNithin">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuggillaNithin&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Building+production-ready+AI+applications;LLMs+%7C+RAG+%7C+Embeddings+%7C+AI+Agents;FastAPI+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;Turning+business+problems+into+intelligent+systems" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuggillaNithin&theme=transparent&hide_border=true" alt="GitHub streak"/>
+<a href="https://github.com/GuggillaNithin">
+<img src="https://img.shields.io/github/followers/GuggillaNithin?label=Followers&style=flat-square&logo=github&color=181717" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/GuggillaNithin?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=flat-square&logo=github" alt="Repositories"/>
+</a>
+<a href="https://www.linkedin.com/in/nithin-guggilla">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:nithinguggilla94@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=GuggillaNithin&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+🧬 Who I Am
 
-# 📈 Contribution Activity
+<table>
+<tr>
+<td width="58%" valign="top">
+
+👋 AI Engineer building useful AI
+
+I'm an AI Engineer / AI Application Developer focused on building real-world applications around Generative AI, LLMs, RAG, NLP, embeddings, vector search and intelligent automation.
+
+I enjoy working across the entire product path:
+
+Idea → Architecture → AI Logic → Backend → UI → Deployment
+
+My professional work includes enterprise RAG, AI assessments, recommendation systems, multi-tenant SaaS platforms and workflow automation.
+
+</td>
+<td width="42%" valign="top">
+
+name: Nithin Guggilla
+location: Hyderabad, India
+
+role:
+  - AI Engineer
+  - AI Application Developer
+  - POD Lead
+
+focus:
+  - Generative AI
+  - RAG Systems
+  - AI Agents
+  - Full-Stack AI
+  - Cloud & DevOps
+
+experience: 1+ year
+
+</td>
+</tr>
+</table>
+
+⚡ AI Engineering Stack
+
+🤖 Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="48" alt="Python TensorFlow PyTorch"/>
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-111827?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-Vector%20Search-0F766E?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Workflows-1D4ED8?style=for-the-badge" alt="AI Agents"/>
+</p>
+
+Generative AI LLMs RAG NLP Embeddings Semantic Search Vector Databases AI Agents Agentic Workflows Recommendation Systems
+
+🧩 Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,postgres,mysql,redis,supabase" height="48" alt="Backend stack"/>
+</p>
+
+Python FastAPI REST APIs Node.js PostgreSQL MySQL Supabase Qdrant Redis Celery
+
+🎨 Full-Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" height="48" alt="Frontend stack"/>
+</p>
+
+Next.js React TypeScript JavaScript Tailwind CSS Dashboards Data Visualization
+
+☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,githubactions" height="48" alt="Cloud and DevOps stack"/>
+</p>
+
+AWS Docker Linux Nginx Git GitHub Actions CI/CD Vercel Render Oracle Cloud
+
+🏗️ What I Build
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuggillaNithin&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+🧠 AI Systems
+
+🏢 Enterprise
+
+🚀 Product Engineering
+
+LLM Applications
+
+Private RAG
+
+Multi-Tenant SaaS
+
+AI Agents
+
+Knowledge Search
+
+REST APIs
+
+NLP & Embeddings
+
+Grounded Q&A
+
+Next.js Applications
+
+Recommendations
+
+Document Intelligence
+
+Cloud Deployments
+
+Agentic Workflows
+
+Internal Assistants
+
+CI/CD Pipelines
 
 </div>
 
----
+💼 Professional Experience
 
-# 🏆 Achievements
+🏢 Maple Learning Solutions
 
-- 🥇 **Best Performer of the Month** — Maple Learning Solutions
-- ⭐ **Star Performer – Team Player Award** — Maple Learning Solutions
-- 🧠 **DSA Mastery Program** — Smart Interviews
-- 🤝 Employee recognition for technical contribution and team collaboration
+AI Application Developer / POD Lead · May 2025 – Present
 
----
+🔐 Enterprise Private RAG Chatbot
 
-# 👨‍💻 Leadership
+Python FastAPI Qdrant PostgreSQL Embeddings LLM APIs Docker
 
-As a **POD Lead**, I contribute beyond coding:
+Built a private enterprise RAG chatbot for 2,500+ pages of internal procedures and documentation.
 
-- 📌 Sprint planning & task allocation
-- 📊 Progress tracking & delivery coordination
-- 🧩 Blocker resolution & technical problem solving
-- 🔍 Code reviews & implementation guidance
-- 📝 Technical / process documentation
-- 🔄 Agile, Kanban & sprint retrospectives
-- 🤝 Cross-functional coordination
+Implemented document processing, embeddings, semantic retrieval and response generation.
 
----
+Designed grounded AI responses using approved enterprise knowledge sources.
 
-# 🎯 Current Focus
+Containerized backend, PostgreSQL and Qdrant using Docker Compose.
 
-```text
-                    AI ENGINEERING
-                          │
-          ┌───────────────┼───────────────┐
-          ▼               ▼               ▼
-       GenAI             RAG          AI Agents
-          │               │               │
-          ▼               ▼               ▼
-        LLMs         Vector Search    Agentic Workflows
-          │               │               │
-          └───────────────┼───────────────┘
-                          ▼
-                 Production AI Apps
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-          FastAPI       Next.js       AWS
-```
+🎓 AI-Powered LMS & Multi-Tenant SaaS
 
-I'm currently deepening my knowledge in:
+Next.js React FastAPI PostgreSQL Supabase Redis Celery Docker
 
-`RAG` → `AI Agents` → `Agentic Workflows` → `Cloud Architecture` → `Production AI Systems`
+Built a multi-tenant LMS supporting course management, assessments, enrollment, learner progress, certificates and reporting.
 
----
+Implemented authentication, RBAC and tenant-level data isolation.
 
-# 🌐 Connect With Me
+Added SCORM/xAPI progress and completion tracking.
+
+Used Redis + Celery for asynchronous processing and automated workflows.
+
+Built dashboards and visualizations for system metrics and actionable insights.
+
+🧠 AI Assessment & Recommendation Platform
+
+Python LLM APIs Embeddings NLP PostgreSQL
+
+Developed AI-powered assessment and recommendation workflows.
+
+Evaluated learner responses using LLMs, embeddings and NLP.
+
+Generated personalized recommendations.
+
+Integrated Google Gemini, Groq and OpenAI-compatible APIs.
+
+Automated PDF reports and email notifications.
+
+📄 ATS Resume Score Checker
+
+Python NLP Embeddings Machine Learning
+
+Built resume-to-job matching using semantic similarity, embeddings and keyword matching.
+
+Implemented batch processing for 50+ resumes against job requirements.
+
+Generated structured scores and identified skill / keyword gaps.
+
+🚨 Crisis Management Assessment Platform
+
+Python FastAPI LLM APIs PDF Generation Email Automation
+
+Built AI-driven assessment processing and structured result generation.
+
+Automated PDF report generation and email workflows.
+
+Developed backend APIs for submission → processing → reporting → notification.
+
+🌟 Featured Engineering Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔐 Enterprise Private RAG
+
+2,500+ pages · Private knowledge
+
+RAG FastAPI Qdrant PostgreSQL LLMs
+
+Enterprise knowledge assistant using semantic retrieval and grounded generation.
+
+</td>
+<td width="50%" valign="top">
+
+🎓 AI LMS / SaaS
+
+Multi-tenant learning platform
+
+Next.js FastAPI PostgreSQL Redis Celery
+
+Learning platform with RBAC, tenant isolation, assessments, certificates and analytics.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🧠 Recommendation Engine
+
+Personalized learning
+
+Python NLP Embeddings LLMs
+
+AI workflows for learner evaluation and personalized recommendations.
+
+</td>
+<td width="50%" valign="top">
+
+📄 ATS Resume Analyzer
+
+50+ resume batch processing
+
+Python NLP Embeddings ML
+
+Semantic resume/job matching with structured scoring and skill-gap analysis.
+
+</td>
+</tr>
+</table>
+
+📊 GitHub Analytics
+
+V2 rendering fix: these cards use the current public endpoints and explicit cache settings. The original stats project warns that its shared Vercel instance is best-effort and can experience rate limits/traffic spikes, so if a card temporarily fails, the service—not your Markdown—is usually the issue. citeturn0search13
+
+<div align="center">
+
+<a href="https://github.com/GuggillaNithin">
+<img src="https://github-readme-stats.vercel.app/api?username=GuggillaNithin&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent&cache_seconds=86400" height="180" alt="Nithin's GitHub statistics"/>
+</a>
+
+<a href="https://github.com/GuggillaNithin">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuggillaNithin&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=86400" height="180" alt="Nithin's top languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img src="https://streak-stats.demolab.com/?user=GuggillaNithin&theme=transparent&hide_border=true&mode=weekly" height="180" alt="Nithin's GitHub streak"/>
+</a>
+
+</div>
+
+📈 Contribution Overview
+
+<div align="center">
+
+<!--
+This is intentionally a separate summary card instead of relying only on
+github-readme-activity-graph, which can fail independently of the README.
+-->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuggillaNithin&theme=github_dark" width="95%" alt="GitHub profile contribution summary"/>
+
+</div>
+
+🐍 Contribution Snake
+
+Want the animated contribution snake? Add the GitHub Action shown below once to your profile repository. It generates the SVG inside your own repository, so the README is no longer dependent on another hosted image endpoint.
+
+<div align="center">
+
+<img src="./profile/snake-dark.svg" width="95%" alt="GitHub contribution snake"/>
+
+</div>
+
+.github/workflows/snake.yml
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: GuggillaNithin
+          outputs: |
+            profile/snake.svg
+            profile/snake-dark.svg?palette=github-dark
+
+      - name: Commit generated snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update contribution snake"
+          add: "profile/*.svg"
+
+The snake approach is useful here because the generated SVG can live in your own profile repository instead of depending on a public image service. citeturn2search9
+
+🏆 Achievements
 
 <p align="center">
 
-<a href="https://github.com/GuggillaNithin">
-<img src="https://img.shields.io/badge/GitHub-GuggillaNithin-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/nithin-guggilla">
-<img src="https://img.shields.io/badge/LinkedIn-Nithin%20Guggilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:nithinguggilla94@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/🏆%20Best%20Performer-Maple%20Learning%20Solutions-F59E0B?style=for-the-badge" alt="Best Performer"/>
+<img src="https://img.shields.io/badge/⭐%20Star%20Performer-Team%20Player-0F766E?style=for-the-badge" alt="Star Performer"/>
+<img src="https://img.shields.io/badge/🧠%20DSA%20Mastery-Smart%20Interviews-2563EB?style=for-the-badge" alt="DSA Mastery"/>
 
 </p>
 
----
+👨‍💻 POD Lead Mode
+
+┌─────────────────────────────────────────────────────────┐
+│                    POD LEAD                             │
+├─────────────────────────────────────────────────────────┤
+│  Sprint Planning       ████████████████████              │
+│  Task Allocation       ████████████████████              │
+│  Blocker Resolution    ████████████████████              │
+│  Technical Guidance    ████████████████████              │
+│  Code Reviews          ████████████████████              │
+│  Documentation         ████████████████████              │
+│  Cross-functional      ████████████████████              │
+└─────────────────────────────────────────────────────────┘
+
+I contribute beyond implementation through planning, coordination, technical problem-solving, code reviews, documentation and delivery ownership.
+
+🎯 2026 AI Engineering Roadmap
+
+                    ┌──────────────────┐
+                    │   AI ENGINEERING │
+                    └────────┬─────────┘
+                             │
+            ┌────────────────┼────────────────┐
+            ▼                ▼                ▼
+        GENERATIVE AI       RAG           AI AGENTS
+            │                │                │
+            ▼                ▼                ▼
+          LLMs        Vector Search     Agentic Workflows
+            │                │                │
+            └────────────────┼────────────────┘
+                             ▼
+                  PRODUCTION AI SYSTEMS
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+           FastAPI         Next.js          AWS
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                    Scalable AI Products
+
+Currently deepening
+
+RAG → AI Agents → Agentic Workflows → Cloud Architecture → Production AI
+
+🌐 Let's Connect
 
 <div align="center">
 
-### 💡 Build. Automate. Learn. Ship.
+<a href="https://github.com/GuggillaNithin">
+<img src="https://img.shields.io/badge/GitHub-GuggillaNithin-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/nithin-guggilla">
+<img src="https://img.shields.io/badge/LinkedIn-Nithin%20Guggilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:nithinguggilla94@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-nithinguggilla94%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-**Thanks for visiting my profile! ⭐**
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GuggillaNithin&style=for-the-badge&color=blue" alt="Profile views"/>
+💬 Build intelligent systems. Automate the boring. Ship useful AI.
+
+⭐ If something here helps you, feel free to explore my repositories.
 
 </div>
 
-<!-- ========================= END ========================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                     END OF PROFILE README                      -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
