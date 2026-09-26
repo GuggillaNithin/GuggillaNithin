@@ -31,25 +31,28 @@
 
 </div>
 
-🧬 Who I Am
+---
+
+## 🧬 Who I Am
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-👋 AI Engineer building useful AI
+### 👋 AI Engineer building useful AI
 
-I'm an AI Engineer / AI Application Developer focused on building real-world applications around Generative AI, LLMs, RAG, NLP, embeddings, vector search and intelligent automation.
+I'm an **AI Engineer / AI Application Developer** focused on building real-world applications around **Generative AI, LLMs, RAG, NLP, embeddings, vector search and intelligent automation**.
 
 I enjoy working across the entire product path:
 
-Idea → Architecture → AI Logic → Backend → UI → Deployment
+**Idea → Architecture → AI Logic → Backend → UI → Deployment**
 
 My professional work includes enterprise RAG, AI assessments, recommendation systems, multi-tenant SaaS platforms and workflow automation.
 
 </td>
 <td width="42%" valign="top">
 
+```yaml
 name: Nithin Guggilla
 location: Hyderabad, India
 
@@ -66,14 +69,17 @@ focus:
   - Cloud & DevOps
 
 experience: 1+ year
+```
 
 </td>
 </tr>
 </table>
 
-⚡ AI Engineering Stack
+---
 
-🤖 Artificial Intelligence
+## ⚡ AI Engineering Stack
+
+### 🤖 Artificial Intelligence
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="48" alt="Python TensorFlow PyTorch"/>
@@ -82,162 +88,125 @@ experience: 1+ year
 <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Workflows-1D4ED8?style=for-the-badge" alt="AI Agents"/>
 </p>
 
-Generative AI LLMs RAG NLP Embeddings Semantic Search Vector Databases AI Agents Agentic Workflows Recommendation Systems
+`Generative AI` `LLMs` `RAG` `NLP` `Embeddings` `Semantic Search` `Vector Databases` `AI Agents` `Agentic Workflows` `Recommendation Systems`
 
-🧩 Backend & Data
+### 🧩 Backend & Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,postgres,mysql,redis,supabase" height="48" alt="Backend stack"/>
 </p>
 
-Python FastAPI REST APIs Node.js PostgreSQL MySQL Supabase Qdrant Redis Celery
+`Python` `FastAPI` `REST APIs` `Node.js` `PostgreSQL` `MySQL` `Supabase` `Qdrant` `Redis` `Celery`
 
-🎨 Full-Stack
+### 🎨 Full-Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" height="48" alt="Frontend stack"/>
 </p>
 
-Next.js React TypeScript JavaScript Tailwind CSS Dashboards Data Visualization
+`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `Dashboards` `Data Visualization`
 
-☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,githubactions" height="48" alt="Cloud and DevOps stack"/>
 </p>
 
-AWS Docker Linux Nginx Git GitHub Actions CI/CD Vercel Render Oracle Cloud
+`AWS` `Docker` `Linux` `Nginx` `Git` `GitHub Actions` `CI/CD` `Vercel` `Render` `Oracle Cloud`
 
-🏗️ What I Build
+---
+
+# 🏗️ What I Build
 
 <div align="center">
 
-🧠 AI Systems
-
-🏢 Enterprise
-
-🚀 Product Engineering
-
-LLM Applications
-
-Private RAG
-
-Multi-Tenant SaaS
-
-AI Agents
-
-Knowledge Search
-
-REST APIs
-
-NLP & Embeddings
-
-Grounded Q&A
-
-Next.js Applications
-
-Recommendations
-
-Document Intelligence
-
-Cloud Deployments
-
-Agentic Workflows
-
-Internal Assistants
-
-CI/CD Pipelines
+| 🧠 AI Systems | 🏢 Enterprise | 🚀 Product Engineering |
+|:---:|:---:|:---:|
+| LLM Applications | Private RAG | Multi-Tenant SaaS |
+| AI Agents | Knowledge Search | REST APIs |
+| NLP & Embeddings | Grounded Q&A | Next.js Applications |
+| Recommendations | Document Intelligence | Cloud Deployments |
+| Agentic Workflows | Internal Assistants | CI/CD Pipelines |
 
 </div>
 
-💼 Professional Experience
+---
 
-🏢 Maple Learning Solutions
+# 💼 Professional Experience
 
-AI Application Developer / POD Lead · May 2025 – Present
+## 🏢 Maple Learning Solutions
 
-🔐 Enterprise Private RAG Chatbot
+**AI Application Developer / POD Lead** · `May 2025 – Present`
 
-Python FastAPI Qdrant PostgreSQL Embeddings LLM APIs Docker
+### 🔐 Enterprise Private RAG Chatbot
 
-Built a private enterprise RAG chatbot for 2,500+ pages of internal procedures and documentation.
+`Python` `FastAPI` `Qdrant` `PostgreSQL` `Embeddings` `LLM APIs` `Docker`
 
-Implemented document processing, embeddings, semantic retrieval and response generation.
+- Built a private enterprise RAG chatbot for **2,500+ pages** of internal procedures and documentation.
+- Implemented document processing, embeddings, semantic retrieval and response generation.
+- Designed grounded AI responses using approved enterprise knowledge sources.
+- Containerized backend, PostgreSQL and Qdrant using Docker Compose.
 
-Designed grounded AI responses using approved enterprise knowledge sources.
+### 🎓 AI-Powered LMS & Multi-Tenant SaaS
 
-Containerized backend, PostgreSQL and Qdrant using Docker Compose.
+`Next.js` `React` `FastAPI` `PostgreSQL` `Supabase` `Redis` `Celery` `Docker`
 
-🎓 AI-Powered LMS & Multi-Tenant SaaS
+- Built a multi-tenant LMS supporting course management, assessments, enrollment, learner progress, certificates and reporting.
+- Implemented authentication, RBAC and tenant-level data isolation.
+- Added SCORM/xAPI progress and completion tracking.
+- Used Redis + Celery for asynchronous processing and automated workflows.
+- Built dashboards and visualizations for system metrics and actionable insights.
 
-Next.js React FastAPI PostgreSQL Supabase Redis Celery Docker
+### 🧠 AI Assessment & Recommendation Platform
 
-Built a multi-tenant LMS supporting course management, assessments, enrollment, learner progress, certificates and reporting.
+`Python` `LLM APIs` `Embeddings` `NLP` `PostgreSQL`
 
-Implemented authentication, RBAC and tenant-level data isolation.
+- Developed AI-powered assessment and recommendation workflows.
+- Evaluated learner responses using LLMs, embeddings and NLP.
+- Generated personalized recommendations.
+- Integrated **Google Gemini, Groq and OpenAI-compatible APIs**.
+- Automated PDF reports and email notifications.
 
-Added SCORM/xAPI progress and completion tracking.
+### 📄 ATS Resume Score Checker
 
-Used Redis + Celery for asynchronous processing and automated workflows.
+`Python` `NLP` `Embeddings` `Machine Learning`
 
-Built dashboards and visualizations for system metrics and actionable insights.
+- Built resume-to-job matching using semantic similarity, embeddings and keyword matching.
+- Implemented batch processing for **50+ resumes** against job requirements.
+- Generated structured scores and identified skill / keyword gaps.
 
-🧠 AI Assessment & Recommendation Platform
+### 🚨 Crisis Management Assessment Platform
 
-Python LLM APIs Embeddings NLP PostgreSQL
+`Python` `FastAPI` `LLM APIs` `PDF Generation` `Email Automation`
 
-Developed AI-powered assessment and recommendation workflows.
+- Built AI-driven assessment processing and structured result generation.
+- Automated PDF report generation and email workflows.
+- Developed backend APIs for submission → processing → reporting → notification.
 
-Evaluated learner responses using LLMs, embeddings and NLP.
+---
 
-Generated personalized recommendations.
-
-Integrated Google Gemini, Groq and OpenAI-compatible APIs.
-
-Automated PDF reports and email notifications.
-
-📄 ATS Resume Score Checker
-
-Python NLP Embeddings Machine Learning
-
-Built resume-to-job matching using semantic similarity, embeddings and keyword matching.
-
-Implemented batch processing for 50+ resumes against job requirements.
-
-Generated structured scores and identified skill / keyword gaps.
-
-🚨 Crisis Management Assessment Platform
-
-Python FastAPI LLM APIs PDF Generation Email Automation
-
-Built AI-driven assessment processing and structured result generation.
-
-Automated PDF report generation and email workflows.
-
-Developed backend APIs for submission → processing → reporting → notification.
-
-🌟 Featured Engineering Projects
+# 🌟 Featured Engineering Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🔐 Enterprise Private RAG
+### 🔐 Enterprise Private RAG
 
-2,500+ pages · Private knowledge
+**2,500+ pages · Private knowledge**
 
-RAG FastAPI Qdrant PostgreSQL LLMs
+`RAG` `FastAPI` `Qdrant` `PostgreSQL` `LLMs`
 
 Enterprise knowledge assistant using semantic retrieval and grounded generation.
 
 </td>
 <td width="50%" valign="top">
 
-🎓 AI LMS / SaaS
+### 🎓 AI LMS / SaaS
 
-Multi-tenant learning platform
+**Multi-tenant learning platform**
 
-Next.js FastAPI PostgreSQL Redis Celery
+`Next.js` `FastAPI` `PostgreSQL` `Redis` `Celery`
 
 Learning platform with RBAC, tenant isolation, assessments, certificates and analytics.
 
@@ -246,22 +215,22 @@ Learning platform with RBAC, tenant isolation, assessments, certificates and ana
 <tr>
 <td width="50%" valign="top">
 
-🧠 Recommendation Engine
+### 🧠 Recommendation Engine
 
-Personalized learning
+**Personalized learning**
 
-Python NLP Embeddings LLMs
+`Python` `NLP` `Embeddings` `LLMs`
 
 AI workflows for learner evaluation and personalized recommendations.
 
 </td>
 <td width="50%" valign="top">
 
-📄 ATS Resume Analyzer
+### 📄 ATS Resume Analyzer
 
-50+ resume batch processing
+**50+ resume batch processing**
 
-Python NLP Embeddings ML
+`Python` `NLP` `Embeddings` `ML`
 
 Semantic resume/job matching with structured scoring and skill-gap analysis.
 
@@ -269,9 +238,11 @@ Semantic resume/job matching with structured scoring and skill-gap analysis.
 </tr>
 </table>
 
-📊 GitHub Analytics
+---
 
-V2 rendering fix: these cards use the current public endpoints and explicit cache settings. The original stats project warns that its shared Vercel instance is best-effort and can experience rate limits/traffic spikes, so if a card temporarily fails, the service—not your Markdown—is usually the issue. citeturn0search13
+# 📊 GitHub Analytics
+
+> **V2 rendering fix:** these cards use the current public endpoints and explicit cache settings. The original stats project warns that its shared Vercel instance is best-effort and can experience rate limits/traffic spikes, so if a card temporarily fails, the service—not your Markdown—is usually the issue. citeturn0search13
 
 <div align="center">
 
@@ -291,7 +262,9 @@ V2 rendering fix: these cards use the current public endpoints and explicit cach
 
 </div>
 
-📈 Contribution Overview
+---
+
+# 📈 Contribution Overview
 
 <div align="center">
 
@@ -304,9 +277,11 @@ github-readme-activity-graph, which can fail independently of the README.
 
 </div>
 
-🐍 Contribution Snake
+---
 
-Want the animated contribution snake? Add the GitHub Action shown below once to your profile repository. It generates the SVG inside your own repository, so the README is no longer dependent on another hosted image endpoint.
+# 🐍 Contribution Snake
+
+> Want the animated contribution snake? Add the GitHub Action shown below once to your profile repository. It generates the SVG inside your own repository, so the README is no longer dependent on another hosted image endpoint.
 
 <div align="center">
 
@@ -314,8 +289,9 @@ Want the animated contribution snake? Add the GitHub Action shown below once to 
 
 </div>
 
-.github/workflows/snake.yml
+**`.github/workflows/snake.yml`**
 
+```yaml
 name: Generate Contribution Snake
 
 on:
@@ -345,10 +321,13 @@ jobs:
         with:
           message: "chore: update contribution snake"
           add: "profile/*.svg"
+```
 
 The snake approach is useful here because the generated SVG can live in your own profile repository instead of depending on a public image service. citeturn2search9
 
-🏆 Achievements
+---
+
+# 🏆 Achievements
 
 <p align="center">
 
@@ -358,8 +337,11 @@ The snake approach is useful here because the generated SVG can live in your own
 
 </p>
 
-👨‍💻 POD Lead Mode
+---
 
+# 👨‍💻 POD Lead Mode
+
+```text
 ┌─────────────────────────────────────────────────────────┐
 │                    POD LEAD                             │
 ├─────────────────────────────────────────────────────────┤
@@ -371,11 +353,15 @@ The snake approach is useful here because the generated SVG can live in your own
 │  Documentation         ████████████████████              │
 │  Cross-functional      ████████████████████              │
 └─────────────────────────────────────────────────────────┘
+```
 
-I contribute beyond implementation through planning, coordination, technical problem-solving, code reviews, documentation and delivery ownership.
+I contribute beyond implementation through **planning, coordination, technical problem-solving, code reviews, documentation and delivery ownership**.
 
-🎯 2026 AI Engineering Roadmap
+---
 
+# 🎯 2026 AI Engineering Roadmap
+
+```text
                     ┌──────────────────┐
                     │   AI ENGINEERING │
                     └────────┬─────────┘
@@ -398,12 +384,15 @@ I contribute beyond implementation through planning, coordination, technical pro
               └──────────────┼──────────────┘
                              ▼
                     Scalable AI Products
+```
 
-Currently deepening
+### Currently deepening
 
-RAG → AI Agents → Agentic Workflows → Cloud Architecture → Production AI
+`RAG` → `AI Agents` → `Agentic Workflows` → `Cloud Architecture` → `Production AI`
 
-🌐 Let's Connect
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
@@ -419,14 +408,12 @@ RAG → AI Agents → Agentic Workflows → Cloud Architecture → Production AI
 
 <br/><br/>
 
-💬 Build intelligent systems. Automate the boring. Ship useful AI.
+### 💬 Build intelligent systems. Automate the boring. Ship useful AI.
 
-⭐ If something here helps you, feel free to explore my repositories.
+⭐ **If something here helps you, feel free to explore my repositories.**
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                     END OF PROFILE README                      -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
